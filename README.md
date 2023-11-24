@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amirseyyedabbasi
 - 👀 I’m interested in Optimization problems
-- 🌱 I'm currently assistant professor in Beykent University
+- 🌱 I'm currently associate professor in Istinye University
  
 
 <!---
